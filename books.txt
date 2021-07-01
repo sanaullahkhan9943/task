@@ -5,4 +5,7 @@ we are going to add some useful books here
 
 Best books to learn java
 
+1) Beginers guide to java 
+2) Java design patterns
+
 Thank you
